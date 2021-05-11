@@ -19,6 +19,7 @@
     ],
     "rules": {
         "comma-dangle": "off",
-        "object-curly-newline": "off"
+        "object-curly-newline": "off",
+        "linebreak-style": ["error", "windows"]
     }
 }
